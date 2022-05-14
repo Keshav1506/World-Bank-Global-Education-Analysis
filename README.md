@@ -8,7 +8,7 @@ In this project we are going to analyze the World Bank EdStats Data in order to 
 
 **NoteBook** : Google Colab
 
-**Dataset** : https://www.kaggle.com/datasets/theworldbank/education-statistics
+**Dataset Source** : https://www.kaggle.com/datasets/theworldbank/education-statistics
 
 ## Content
 The World Bank EdStats All Indicator Query holds over 4,000 internationally comparable indicators that describe education access, progression, completion, literacy, teachers, population, and expenditures. The indicators cover the education cycle from pre-primary to vocational and tertiary education.

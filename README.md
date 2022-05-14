@@ -3,7 +3,9 @@ The World Bank EdStats All Indicator Query holds over 4,000 internationally comp
 In this project we are going to analyze the World Bank EdStats Data in order to find out valuable insights.
 
 **Programming Language** : Python
+
 **Libraries used** : Pandas, Numpy, Matplotlib, Math
+
 **NoteBook** : Google Colab
 
 **Dataset** : https://www.kaggle.com/datasets/theworldbank/education-statistics
